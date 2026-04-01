@@ -1,6 +1,6 @@
 # 👨‍💻 Joao Campbell
 
-**`Estudante e Futuro Profissional de Cibersegurança`**
+**`Estudante de Cibersegurança`**
 
 Tenho 24 anos e vivo em Portugal. Estou focado em desenvolver minhas competências em **Cibersegurança**, com interesse em:
 
