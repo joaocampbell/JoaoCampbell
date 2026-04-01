@@ -1,178 +1,61 @@
-👨‍💻 Joao Campbell
+# 👨‍💻 Joao Campbell
 
-Estudante de Ciência de Dados | Futuro Profissional de Cibersegurança
+**`Estudante e Futuro Profissional de Cibersegurança`**
 
-Tenho 24 anos e vivo em Portugal. Atualmente estou cursando Aplicações Informáticas para Ciências de Dados, onde desenvolvo competências em programação, análise de dados e sistemas computacionais.
-Tenho grande interesse na área de Cibersegurança, com foco em segurança de sistemas, análise de vulnerabilidades e proteção de infraestruturas digitais. Utilizo principalmente Python e Linux para desenvolver projetos relacionados com tecnologia, automação e inteligência artificial.
-Além dos estudos académicos, também desenvolvo projetos práticos para aprofundar meus conhecimentos, incluindo aplicações com inteligência artificial, reconhecimento de objetos, assistentes pessoais locais e sistemas web em tempo real. O meu objetivo é construir uma carreira sólida na área de segurança informática, contribuindo para a proteção de sistemas e dados em ambientes digitais.
+Tenho 24 anos e vivo em Portugal. Estou focado em desenvolver minhas competências em **Cibersegurança**, com interesse em:
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+- Segurança de sistemas e redes  
+- Análise de vulnerabilidades e testes de penetração (Pentest)  
+- Proteção de infraestruturas digitais e monitoramento de segurança  
+- Automação e ferramentas de segurança usando Python e Linux  
+
+Meus projetos incluem:
+
+- Scripts e automação para monitoramento e proteção de sistemas  
+- Ferramentas seguras para aplicações web  
+- Assistentes pessoais locais com foco em segurança  
+- Testes de penetração em ambientes controlados  
+
+Meu objetivo é construir uma carreira sólida em **segurança informática**, contribuindo para proteger sistemas e dados críticos em ambientes digitais.
+
+---
+
+### 🛠 Tecnologias e Ferramentas
+
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+<img align="left" alt="Bash" title="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="Nmap" title="Nmap" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg"/>
+<img align="left" alt="Wireshark" title="Wireshark" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg"/>
+
+<br/><br/>
+
+### 🎓 Certificações e Skills
+
+<p>
+  <img alt="Cisco CCNA" src="https://img.shields.io/badge/Cisco-CCNA-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img alt="Bug Bounty" src="https://img.shields.io/badge/Bug%20Bounty-Exploration-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-automation-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-Security-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-Network-blue?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-Scanning-red?style=for-the-badge&logo=nmap&logoColor=white"/>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
+### 📊 Estatísticas de Projetos
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  <img align="left" alt="Projetos" height="180" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=joaocampbell&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img align="left" alt="Tecnologias" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocampbell&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
+
+---
+
+### 💡 Sobre mim
+
+Sou entusiasta de cibersegurança e tecnologia, sempre explorando novas ferramentas, métodos de proteção e técnicas de análise de vulnerabilidades. Estou constantemente aprimorando minhas habilidades e construindo projetos que demonstrem minhas competências técnicas para o mercado de trabalho.
