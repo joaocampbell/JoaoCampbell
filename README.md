@@ -6,7 +6,7 @@
   <a href="https://tryhackme.com/p/joaocampbell" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/joaocampbell" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-campbell-b3b75020b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Portugal%20%F0%9F%87%B5%F0%9F%87%B9-green?style=for-the-badge"/>
