@@ -88,15 +88,6 @@ My work lives at the intersection of **Blue Team operations**, **network securit
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaocampbell&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocampbell&theme=github_dark&hide_border=true&layout=compact&langs_count=6"/>
-</p>
-
----
-
 ## 🧠 Areas of Interest
 
 ```
@@ -110,8 +101,4 @@ My work lives at the intersection of **Blue Team operations**, **network securit
 
 <p align="center">
   <i>"Security is not a product, but a process." — Bruce Schneier</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaocampbell&color=00FF41&style=flat-square&label=Profile+Views"/>
 </p>
